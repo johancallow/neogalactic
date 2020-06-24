@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1592821206 source:c:\users\johan\desktop\neogalactic\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<locale.h>
+	<math.h>
+
